@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Examen2Ev</string>
+    <string name="quimicando">Quimicando</string>
+    <string name="consultar">Consultar</string>
+    <string name="qu_mico">Químico</string>
+    <string name="salir">Salir</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="iniciar_sesi_n">Iniciar sesión</string>
+    <string name="volver">Volver</string>
+    <string name="insertar">Insertar</string>
+    <string name="nombre_del_elemento">Nombre del elemento</string>
+    <string name="modificar">Modificar</string>
+    <string name="borrar">Borrar</string>
+    <string name="buscar">Buscar</string>
+</resources>
